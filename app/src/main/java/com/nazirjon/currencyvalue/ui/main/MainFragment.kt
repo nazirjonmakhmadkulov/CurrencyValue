@@ -58,7 +58,7 @@ class MainFragment : Fragment() {
         if (fragmentViewModel.boundaryValue.value!=0.0f) {
             binding.editTextBoundaryValue.setText(fragmentViewModel.boundaryValue.value.toString())
         }
-        binding.button.setOnClickListener {
+        binding.fabUpdate.setOnClickListener {
             getCuurrencyData()
         }
         fragmentViewModel.currencyForShowUSD.value = EXCHANGE_RATE_USD

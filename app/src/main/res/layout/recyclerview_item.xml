@@ -23,14 +23,14 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:textSize="14sp"
-                tools:text="Date Update: 27.05.2021"/>
+                tools:text="Date Request: 27.05.2021"/>
             <TextView
                 android:id="@+id/tvUpdatedDate"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:textSize="14sp"
-                tools:text="Date Request: 27.06.2020">
+                tools:text="Date Update: 27.06.2020">
             </TextView>
         </LinearLayout>
 
@@ -53,8 +53,7 @@
                 android:layout_height="wrap_content"
                 android:textSize="18sp"
                 android:textStyle="bold"
-                tools:text="100">
-            </TextView>
+                tools:text="100"/>
 
             <ImageView
                 android:src="@drawable/rub"
@@ -69,8 +68,7 @@
                 android:layout_height="wrap_content"
                 android:textSize="18sp"
                 android:textStyle="bold"
-                tools:text="700">
-            </TextView>
+                tools:text="700"/>
         </LinearLayout>
     </LinearLayout>
 
