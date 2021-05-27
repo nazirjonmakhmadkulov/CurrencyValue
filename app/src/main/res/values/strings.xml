@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Курс доллар</string>
+    <string name="boundary_value">Введите граничное значение</string>
+    <string name="requested_date">Запрошенная дата: </string>
+    <string name="update_date">Дата обновления: </string>
+    <string name="currency_unit">1 </string>
+    <string name="rub_currency"> RUB</string>
+    <string name="notification_title">Уведомление</string>
+    <string name="internet_info">Нет соединения с интернетом, пожалуйста, убидесть что у вас есть интернет и попробуйте заново.</string>
+</resources>
